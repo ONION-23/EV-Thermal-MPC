@@ -1,0 +1,24 @@
+# MATLAB / Simulink
+*.asv
+*.mex*
+*.mlappinstall
+*.mltbx
+slprj/
+sccprj/
+codegen/
+*.slxc
+*.autosave
+
+# 仿真结果（大文件）
+*.mat
+*.csv
+results/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
