@@ -1,0 +1,2 @@
+- [用户语言偏好](user-language-preference.md) — 始终用中文回复
+- [热管理MPC项目](ev-thermal-mpc-project.md) — 毕设：纯电汽车热管理MPC控制，GitHub: ONION-23/EV-Thermal-MPC，已完成代码框架，待AMESim线性化
